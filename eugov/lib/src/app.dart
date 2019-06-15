@@ -1,3 +1,4 @@
+import 'package:eugov/src/pages/dash/index.dart';
 import 'package:flutter/material.dart';
 
 import 'blocs/base/bloc_provider.dart';
@@ -14,7 +15,7 @@ class App extends StatelessWidget {
         title: strings.appTitle,
         debugShowCheckedModeBanner: false,
         theme: appTheme.theme,
-        home: LoginPage()
+        home: Dash()
       )
     );
   }
