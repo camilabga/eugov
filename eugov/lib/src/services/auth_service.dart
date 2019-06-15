@@ -1,10 +1,10 @@
 import '../helpers/http_helper.dart';
 
-import 'package:flutter_architecture/src/helpers/storage_helper.dart';
-import 'package:flutter_architecture/src/utils/storage_keys.dart';
+import 'package:eugov/src/helpers/storage_helper.dart';
+import 'package:eugov/src/utils/storage_keys.dart';
 
-import 'package:flutter_architecture/src/models/response_model.dart';
-import 'package:flutter_architecture/src/models/usuario_model.dart';
+import 'package:eugov/src/models/response_model.dart';
+import 'package:eugov/src/models/usuario_model.dart';
 
 import 'base_url.dart';
 

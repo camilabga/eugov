@@ -1,6 +1,6 @@
-import 'package:flutter_architecture/src/helpers/storage_helper.dart';
-import 'package:flutter_architecture/src/services/base_url.dart';
-import 'package:flutter_architecture/src/utils/storage_keys.dart';
+import 'package:eugov/src/helpers/storage_helper.dart';
+import 'package:eugov/src/services/base_url.dart';
+import 'package:eugov/src/utils/storage_keys.dart';
 import 'package:dio/dio.dart';
 
 class HttpHelper {

@@ -1,4 +1,4 @@
-import 'package:flutter_architecture/src/services/auth_service.dart';
+import 'package:eugov/src/services/auth_service.dart';
 import 'package:rxdart/rxdart.dart';
 
 import 'base/bloc_base.dart';

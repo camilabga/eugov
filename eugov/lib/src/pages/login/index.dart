@@ -1,15 +1,15 @@
-import 'package:flutter_architecture/src/blocs/base/bloc_provider.dart';
+import 'package:eugov/src/blocs/base/bloc_provider.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_architecture/src/custom-widgets/button/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/container_corner/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/container_with_margin/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/divider_input/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/edit_text/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/loading/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/logo/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/text/index.dart';
-import 'package:flutter_architecture/src/pages/fale_conosco/index.dart';
-import 'package:flutter_architecture/src/utils/navigation/nav_slide_from_top.dart';
+import 'package:eugov/src/custom-widgets/button/index.dart';
+import 'package:eugov/src/custom-widgets/container_corner/index.dart';
+import 'package:eugov/src/custom-widgets/container_with_margin/index.dart';
+import 'package:eugov/src/custom-widgets/divider_input/index.dart';
+import 'package:eugov/src/custom-widgets/edit_text/index.dart';
+import 'package:eugov/src/custom-widgets/loading/index.dart';
+import 'package:eugov/src/custom-widgets/logo/index.dart';
+import 'package:eugov/src/custom-widgets/text/index.dart';
+import 'package:eugov/src/pages/fale_conosco/index.dart';
+import 'package:eugov/src/utils/navigation/nav_slide_from_top.dart';
 
 class LoginPage extends StatelessWidget {
   @override

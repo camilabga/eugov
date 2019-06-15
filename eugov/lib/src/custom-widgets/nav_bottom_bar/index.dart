@@ -1,7 +1,7 @@
-import 'package:flutter_architecture/src/blocs/base/bloc_provider.dart';
+import 'package:eugov/src/blocs/base/bloc_provider.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_architecture/src/custom-widgets/card_view/index.dart';
-import 'package:flutter_architecture/src/values/colors.dart' as colors;
+import 'package:eugov/src/custom-widgets/card_view/index.dart';
+import 'package:eugov/src/values/colors.dart' as colors;
 
 import 'models/nav_bottom_model.dart';
 import 'nav_bottom_item.dart';

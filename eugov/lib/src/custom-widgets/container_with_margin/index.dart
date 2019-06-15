@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_architecture/src/values/dimens.dart' as dimens;
+import 'package:eugov/src/values/dimens.dart' as dimens;
 
 class ContainerWithMargin extends StatelessWidget {
   final Widget child;

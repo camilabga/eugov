@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_architecture/src/custom-widgets/text/index.dart';
-import 'package:flutter_architecture/src/values/colors.dart' as colors;
+import 'package:eugov/src/custom-widgets/text/index.dart';
+import 'package:eugov/src/values/colors.dart' as colors;
 
 class CustomSnackbar {
   SnackBar _snackbar;

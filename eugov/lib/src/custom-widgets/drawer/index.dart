@@ -1,10 +1,10 @@
-import 'package:flutter_architecture/src/blocs/base/bloc_provider.dart';
-import 'package:flutter_architecture/src/custom-widgets/text/index.dart';
-import 'package:flutter_architecture/src/pages/login/index.dart';
+import 'package:eugov/src/blocs/base/bloc_provider.dart';
+import 'package:eugov/src/custom-widgets/text/index.dart';
+import 'package:eugov/src/pages/login/index.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_architecture/src/values/colors.dart' as colors;
-import 'package:flutter_architecture/src/values/strings.dart' as strings;
+import 'package:eugov/src/values/colors.dart' as colors;
+import 'package:eugov/src/values/strings.dart' as strings;
 
 class CustomDrawer extends StatelessWidget {
   @override

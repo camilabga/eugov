@@ -1,5 +1,5 @@
-import 'package:flutter_architecture/src/blocs/login_bloc.dart';
-import 'package:flutter_architecture/src/blocs/nav_bottom_bloc.dart';
+import 'package:eugov/src/blocs/login_bloc.dart';
+import 'package:eugov/src/blocs/nav_bottom_bloc.dart';
 
 class BlocInject {
   LoginBloc _login = LoginBloc();

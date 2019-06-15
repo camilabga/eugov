@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_architecture/src/custom-widgets/button/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/container_with_margin/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/divider_input/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/edit_text/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/logo_ht7/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/text/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/toast/index.dart';
-import 'package:flutter_architecture/src/custom-widgets/toolbar/index.dart';
+import 'package:eugov/src/custom-widgets/button/index.dart';
+import 'package:eugov/src/custom-widgets/container_with_margin/index.dart';
+import 'package:eugov/src/custom-widgets/divider_input/index.dart';
+import 'package:eugov/src/custom-widgets/edit_text/index.dart';
+import 'package:eugov/src/custom-widgets/logo_ht7/index.dart';
+import 'package:eugov/src/custom-widgets/text/index.dart';
+import 'package:eugov/src/custom-widgets/toast/index.dart';
+import 'package:eugov/src/custom-widgets/toolbar/index.dart';
 
 class FaleConoscoPage extends StatelessWidget {
   @override
