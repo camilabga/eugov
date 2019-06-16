@@ -29,7 +29,7 @@ class CardView extends StatelessWidget {
         alignment: alignment,
         color: backgroundColor,
         decoration: BoxDecoration(
-          color: Colors.white,
+          color: Colors.grey[400],
           borderRadius: BorderRadius.circular(8),
           boxShadow: [
               BoxShadow(

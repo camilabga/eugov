@@ -49,6 +49,10 @@ flutter:
       - asset: asset/fonts/Raleway-Regular.ttf
       - asset: asset/fonts/Raleway-Italic.ttf
         style: italic
+  assets:
+   - asset/images/homen.png
+   - asset/images/logo.png
+   - asset/images/woman.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
