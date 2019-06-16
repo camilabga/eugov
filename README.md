@@ -1,4 +1,4 @@
-# Hackathon FIESP - Desburocratização & Governo Digital
+# Hackathon FIESP - Debureaucratization & Digital Government
 
 Our solution consists in a integration of the Digital ID System with new features. These features are meant to solve a problem of communication betwen the government and the society, as well as, reduce the costs of the government with publicity and give the opportunity for the citizen to be the lead of his/her public life.
 
